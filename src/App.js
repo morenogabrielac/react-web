@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>Cambiado</code> and save to reload.
+          Comienzos de mi pagina web para hacer el portafolios
         </p>
         <a
           className="App-link"
