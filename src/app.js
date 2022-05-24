@@ -9,7 +9,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 // import "material-icons/iconfont/material-icons.css";
 
 // Import components
-import Main from "./main";
+import Main from "./components/main.js";
 
 //Variable global que almacena los elementos creados algo.
 window.elements = [];
