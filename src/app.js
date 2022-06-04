@@ -1,5 +1,5 @@
 import React from "react";
-
+import './assets/app.css'; 
 import "bootstrap/dist/css/bootstrap.min.css";
 
 // // Import styles
