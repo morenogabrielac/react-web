@@ -1,6 +1,6 @@
 import {Card, Button,Container, Row, Col} from 'react-bootstrap';
 import logo from '../logo.svg';
-
+import '../assets/jgm.css'
 function Home(){
     return(
         <>
@@ -11,7 +11,7 @@ function Home(){
         <Col xs={12} md={12} lg={6}>
 
         <img src={logo} className="app-logo" alt="logo" />
-        <h1>JGM</h1>
+        <h1 className='JGM center'>JGM</h1>
         <h3>Juan</h3>
         <h3>Gabriel</h3>
         <h3>Moreno</h3>
